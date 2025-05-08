@@ -1,18 +1,15 @@
-**website under construction**
-
 # General information
 
-The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences.
+The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences.
 
 Currently, a call for project proposals is open.
 We encourage interested scholars to consult the project description below and to consider applying.
-Please reach out if you have questions.
 
 General information about the funding scheme is [here](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/coordinated-programmes/priority-programmes).
 
 The official call for proposals from the DFG for LaSTing is [here](https://www.dfg.de/en/news/news-topics/announcements-proposals/2025/ifr-25-32).
 
-## Time line for first funding phase:
+## Timeline for first funding phase:
 
 - deadline for project proposals Sep 30 2025
 - official decisions on accepted projects ~ March 2026
@@ -21,20 +18,21 @@ The official call for proposals from the DFG for LaSTing is [here](https://www.d
 
 ## Practical and organizational information
 
-Project proposals are submitted as "individual projects" to the DFG. Evaluation and selection is organized and executed by the DFG, not the SPP's coordinator and board.
+Project proposals are submitted as "individual projects" to the DFG.
+Evaluation and selection is organized and executed by the DFG, not the SPP's coordinator and board.
 
-Projects apply for their own funding for running costs (experiments, conference traveling etc.)
-and may include additional funding for PostDocs and PhDs.
+Projects apply for their own funding for running costs (experiments, conference traveling etc.) and may include additional funding for PostDocs and PhDs.
 Normally, a project would apply for funding of one PhD or PostDoc position.
 PhD students are usually funded as E13 65% (Humanities) or E13 100% (Sciences) depending on local custom.
-Funding of compute architecture or other large investments in equipment cannot be funded through this initiative, which is chiefly a community-building / networking initiative aiming to connect researchers at the interface between language science and technology and to educate a new cohort of outstanding young researchers in this emerging interdisciplinary field.
+Funding of compute architecture or other large investments in equipment cannot be funded through this initiative, which is chiefly a community-building / networking initiative aiming to connect researchers at the interface between language science and language technology, and to educate a new cohort of outstanding young researchers in this emerging interdisciplinary field.
 
 **Early-career researchers are particularly encouraged to apply for their own funding (PostDoc position).**
 
 ## Additional measures
 
-On top of each project's individual budget, the priority area contributes additional measures for networking, by providing funding for workshops, short-term collaboration between projects, exchange visits, public outreach measures, as well as equality and family support.
-The program is supported by four Mercator Fellows.
+On top of each project's individual budget, the priority area contributes additional measures for networking and community-building.
+This includes extra funding for workshops, short-term collaboration between projects, exchange visits, public outreach measures, as well as equality and family support.
+The program is moreover supported by four Mercator Fellows.
 Annual meetings and annual autumn schools will help inter-project exchange, interdisciplinary education and public dissemination of research results.
 
 ## Aims and scope of the priority area
