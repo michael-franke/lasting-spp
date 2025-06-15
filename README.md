@@ -11,7 +11,7 @@ The official call for proposals from the DFG for LaSTing is [here](https://www.d
 
 Slides with additional information on content and practicalities: [here](https://www.lasting-spp.org/assets/SPP-LaSTing-info-meeting.pdf).
 
-A detailed project description is [here](https://www.lasting-spp.org/assets/SPP-LaSTing-info-meeting.pdf)
+A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
 
 ## Timeline for first funding phase:
 
