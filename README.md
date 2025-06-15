@@ -9,8 +9,9 @@ General information about the funding scheme is [here](https://www.dfg.de/en/res
 
 The official call for proposals from the DFG for LaSTing is [here](https://www.dfg.de/en/news/news-topics/announcements-proposals/2025/ifr-25-32).
 
-Slides with additional information on content and practicalities: [here](https://www.lasting-spp.org/assets/SPP-LaSTing-info-meeting.pdf)
+Slides with additional information on content and practicalities: [here](https://www.lasting-spp.org/assets/SPP-LaSTing-info-meeting.pdf).
 
+A detailed project description is [here](https://www.lasting-spp.org/assets/SPP-LaSTing-info-meeting.pdf)
 
 ## Timeline for first funding phase:
 
