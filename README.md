@@ -93,3 +93,6 @@ In order to achieve its goals, LaSTing requires broad and deep interdisciplinary
 The Priority Programme therefore implements an extensive suite of individual measures to support diversity, networking and dissemination, and to ensure the success of early career researchers and scholars with backgrounds underrepresented in academic research.
 Early career researchers are explicitly encouraged to submit their own proposals.
 
+## Internal Collaboration
+
+If you want to mention collaboration between project proposals with your application, and you would like to know what others are preparing to submit, you can share and see project ideas in this document: [LaSTing 'meet & collab'](https://docs.google.com/document/d/14c-5jbR9PnbFdWgFL7rzQMfKdEMem5yBmhPaRpeDvl0/edit?usp=sharing).
