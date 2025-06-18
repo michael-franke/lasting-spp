@@ -97,3 +97,8 @@ Early career researchers are explicitly encouraged to submit their own proposals
 ## Internal Collaboration
 
 If you want to mention collaboration between project proposals with your application, and you would like to know what others are preparing to submit, you can share and see project ideas in this document: [LaSTing 'meet & collab'](https://docs.google.com/document/d/14c-5jbR9PnbFdWgFL7rzQMfKdEMem5yBmhPaRpeDvl0/edit?usp=sharing).
+
+## Additional information on applications (FAQs)
+
+- If you plan cooperation with other projects already during your project proposals, mention them in the application and include a signed simple statement from all involved parties confirming the cooperation intention.
+- It is possible to apply for additional 'modules' in individual project proposals (if necessary for the project), even if the same module is also applied for in the context of the "coordination project" for the whole Priority Area. Examples: equality measures, Mercator Fellows, ...
