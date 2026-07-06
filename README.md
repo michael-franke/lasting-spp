@@ -1,42 +1,19 @@
 ## General information
 
-The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences.
+The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences. A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
 
-Currently, a call for project proposals is open.
-We encourage interested scholars to consult the project description below and to consider applying.
-
-General information about the funding scheme is [here](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/coordinated-programmes/priority-programmes).
-
-The official call for proposals from the DFG for LaSTing is [here](https://www.dfg.de/en/news/news-topics/announcements-proposals/2025/ifr-25-32).
-
-Slides with additional information on content and practicalities: [here](https://www.lasting-spp.org/assets/SPP-LaSTing-info-meeting.pdf).
-
-A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
-
-## Timeline for first funding phase:
-
-- deadline for project proposals Sep 30 2025
-- official decisions on accepted projects ~ March 2026
-- planned project start May 1 2026
-- duration of first funding phase: 3 years
-
-## Practical and organizational information
-
-Project proposals are submitted as "individual projects" to the DFG.
-Evaluation and selection is organized and executed by the DFG, not the SPP's coordinator and board.
-
-Projects apply for their own funding for running costs (experiments, conference traveling etc.) and may include additional funding for PostDocs and PhDs.
-Normally, a project would apply for funding of one PhD or PostDoc position.
-PhD students are usually funded as E13 65% (Humanities) or E13 100% (Sciences) depending on local custom.
-Funding of compute architecture or other large investments in equipment cannot be funded through this initiative, which is chiefly a community-building / networking initiative aiming to connect researchers at the interface between language science and language technology, and to educate a new cohort of outstanding young researchers in this emerging interdisciplinary field.
-
-**Early-career researchers are particularly encouraged to apply for their own funding (PostDoc position).**
-
-## Additional measures
+## Projects
 
 On top of each project's individual budget, the priority area contributes additional measures for networking and community-building.
 This includes extra funding for workshops, short-term collaboration between projects, exchange visits, public outreach measures, as well as equality and family support.
-The program is moreover supported by four Mercator Fellows.
+The program is moreover supported by four Mercator Fellows:
+- **Katrin Erk**: Katrin Erk is a professor in the Linguistics and Computer Science departments at the University of Massachusetts Amhers and an internationally renowned expert on computational semantics. Her work dives deep into the theoretical foundations of distributional (embedding-based) representations of meaning and compositionality
+- **Raquel Fernández**: Raquel Fernandez is Professor of Computational Linguistics & Dialogue Systems at the University of Amsterdam. She is well-known for her widely influential work on computational and data-driven approaches to dialogue modeling. Her current research investigates modern language technology from a theoretically-informed position that combines factors of individual cognition and grounding in situated interaction
+- **Roger Levy**: Roger Levy is Professor at the MIT Department of Brain and Cognitive Sciences. His seminal work in computational psycholinguistics combines (language) modeling of large data sets with experimental linguistics, increasing our understanding oflanguage processing in both machines and humans.
+- **Chrisopher Potts**: Christopher Potts is Professor and Chair at the Department of Linguistics at Stanford University, also associated there with the Department of Computer Science. While his early work made ground-breaking contributions to formal semantics and pragmatics, his more recent work is
+bridging linguistics and language technology with exemplary work on theoretically-informed NLP applications and (causal) interpretability of language models
+
+
 Annual meetings and annual autumn schools will help inter-project exchange, interdisciplinary education and public dissemination of research results.
 
 ## Aims and scope of the priority area
@@ -93,12 +70,3 @@ Also, projects that merely seek new areas of application with established tools,
 In order to achieve its goals, LaSTing requires broad and deep interdisciplinary collaboration.
 The Priority Programme therefore implements an extensive suite of individual measures to support diversity, networking and dissemination, and to ensure the success of early career researchers and scholars with backgrounds underrepresented in academic research.
 Early career researchers are explicitly encouraged to submit their own proposals.
-
-## Internal Collaboration
-
-If you want to mention collaboration between project proposals with your application, and you would like to know what others are preparing to submit, you can share and see project ideas in this document: [LaSTing 'meet & collab'](https://docs.google.com/document/d/14c-5jbR9PnbFdWgFL7rzQMfKdEMem5yBmhPaRpeDvl0/edit?usp=sharing).
-
-## Additional information on applications (FAQs)
-
-- If you plan cooperation with other projects already during your project proposals, mention them in the application and include a signed simple statement from all involved parties confirming the cooperation intention.
-- It is possible to apply for additional 'modules' in individual project proposals (if necessary for the project), even if the same module is also applied for in the context of the "coordination project" for the whole Priority Area. Examples: equality measures, Mercator Fellows, ...
