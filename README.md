@@ -83,9 +83,9 @@ Examples of more concrete research questions that fit into these three core issu
 - **Explanatory Potential**: How can novel language technology be used as or in support of explanations, e.g. of linguistic phenomena, empirical or experimental data in the language sciences?
 - **LM capabilities**: What are the limits of LM capabilities and why? How can we systematically identify them, also for future generations of language modelling/technology?
 
-Examples of work that is outside the scope of this Priority Programme are efforts geared mainly at improving system performance (e.g. based on some benchmark score).
+Examples of work that is outside the scope of this Priority Area are efforts geared mainly at improving system performance (e.g. based on some benchmark score).
 Also, projects that merely seek new areas of application with established tools, as long as there is little or no reflection on methods or concepts, or any other bearing on the knowledge-oriented cognitive language sciences.
 
 In order to achieve its goals, LaSTing requires broad and deep interdisciplinary collaboration.
 The Priority Programme therefore implements an extensive suite of individual measures to support diversity, networking and dissemination, and to ensure the success of early career researchers and scholars with backgrounds underrepresented in academic research.
-Early career researchers are explicitly encouraged to submit their own proposals.
+
