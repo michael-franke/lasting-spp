@@ -4,7 +4,7 @@ The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applic
 
 ## Projects
 
-The Priority Area involves the following projects:
+The Priority Area "LaSTing" involves the following projects:
 - **Limits and Biases in Machine and Human Language and its Learning** (PIs: Artemis Alexiadou, Uli Sauerland)
 - **The pragmatic test: how humans and LLMs decode presupposed meaning** (PIs: Nadine Bade, Miriam Butt)
 - **KIND-LM: Cognitively-inspired interaction dynamics for sample-efficient language modeling** (PIs: Lisa Beinborn, Nivedita Mani)
@@ -29,14 +29,14 @@ The Priority Area involves the following projects:
 
 ## Mercator Fellows
 
-The Priority Area is supported by four Mercator Fellows:
+The Priority Area "LaSTing" is supported by four Mercator Fellows:
 - **Katrin Erk**: Katrin Erk is a professor in the Linguistics and Computer Science departments at the University of Massachusetts Amhers and an internationally renowned expert on computational semantics. Her work dives deep into the theoretical foundations of distributional (embedding-based) representations of meaning and compositionality
 - **Raquel Fernández**: Raquel Fernandez is Professor of Computational Linguistics & Dialogue Systems at the University of Amsterdam. She is well-known for her widely influential work on computational and data-driven approaches to dialogue modeling. Her current research investigates modern language technology from a theoretically-informed position that combines factors of individual cognition and grounding in situated interaction
 - **Roger Levy**: Roger Levy is Professor at the MIT Department of Brain and Cognitive Sciences. His seminal work in computational psycholinguistics combines (language) modeling of large data sets with experimental linguistics, increasing our understanding oflanguage processing in both machines and humans.
 - **Christopher Potts**: Christopher Potts is Professor and Chair at the Department of Linguistics at Stanford University, also associated there with the Department of Computer Science. While his early work made ground-breaking contributions to formal semantics and pragmatics, his more recent work is
 bridging linguistics and language technology with exemplary work on theoretically-informed NLP applications and (causal) interpretability of language models
 
-## Aims and scope of the priority area
+## Aims and scope of the Priority Area "LaSTing"
 
 While modern language technology increasingly permeates many areas of applications, much of its input-output behaviour and its inner mechanics remains unknown.
 As a result, recent years have seen a newly emerging field of interdisciplinary and methodologically diverse work at the interface between the cognitive language sciences (broadly construed) and language technology (focused on neural language models, but not exclusively).
