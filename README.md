@@ -2,19 +2,14 @@
 
 The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences. A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
 
-## Projects
+## Mercator Fellows
 
-On top of each project's individual budget, the priority area contributes additional measures for networking and community-building.
-This includes extra funding for workshops, short-term collaboration between projects, exchange visits, public outreach measures, as well as equality and family support.
-The program is moreover supported by four Mercator Fellows:
+The program is supported by four Mercator Fellows:
 - **Katrin Erk**: Katrin Erk is a professor in the Linguistics and Computer Science departments at the University of Massachusetts Amhers and an internationally renowned expert on computational semantics. Her work dives deep into the theoretical foundations of distributional (embedding-based) representations of meaning and compositionality
 - **Raquel Fernández**: Raquel Fernandez is Professor of Computational Linguistics & Dialogue Systems at the University of Amsterdam. She is well-known for her widely influential work on computational and data-driven approaches to dialogue modeling. Her current research investigates modern language technology from a theoretically-informed position that combines factors of individual cognition and grounding in situated interaction
 - **Roger Levy**: Roger Levy is Professor at the MIT Department of Brain and Cognitive Sciences. His seminal work in computational psycholinguistics combines (language) modeling of large data sets with experimental linguistics, increasing our understanding oflanguage processing in both machines and humans.
 - **Chrisopher Potts**: Christopher Potts is Professor and Chair at the Department of Linguistics at Stanford University, also associated there with the Department of Computer Science. While his early work made ground-breaking contributions to formal semantics and pragmatics, his more recent work is
 bridging linguistics and language technology with exemplary work on theoretically-informed NLP applications and (causal) interpretability of language models
-
-
-Annual meetings and annual autumn schools will help inter-project exchange, interdisciplinary education and public dissemination of research results.
 
 ## Aims and scope of the priority area
 
