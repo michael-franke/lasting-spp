@@ -2,9 +2,34 @@
 
 The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences. A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
 
+## Projects
+
+The Priority Area involves the following projects:
+- **Limits and Biases in Machine and Human Language and its Learning** (PIs: Artemis Alexiadou, Uli Sauerland)
+- **The pragmatic test: how humans and LLMs decode presupposed meaning** (PIs: Nadine Bade, Miriam Butt)
+- **KIND-LM: Cognitively-inspired interaction dynamics for sample-efficient language modeling** (PIs: Lisa Beinborn, Nivedita Mani)
+- **A Resource Efficient Cross-linguistic Approach to Figurative Meaning Assessment in LLMs** (PI: Maria Berger)
+- **Coordination Funds** (PI: Michael Franke)
+- **Unreal engines — Understanding language models through resource-optimal analysis: Implicit Bayesian pragmatic reasoning & emergent causal world models** (PI: Michael Franke)
+- **Attention in Large Language Models: Linguistic Grounding, Cognitive Modeling, and Social Application** (PIs: Nicole Gotzner, Sebastian Musslick)
+- **A multidimensional adaptive test for the psychometric assessment of LLM capabilities** (PI: Fritz Günther)
+- **Structural generalization in transformer-based LLMs** (PIs: Michael Hahn, Alexander Koller)
+- **Systemic Robustness Assessments of Language Models for Cross-Linguistic Research using Formally Related Structures (FORESTS)** (PIs: Jutta-Maria Hartmann, Anke Himmelreich, Sina Zarrieß)
+- **Moral Hallucinations in Large Language Models — Their Argumentative Structure and Ethical Implications** (PIs: Annette Hautli-Janisz, Karoline Reinhardt)
+- **The Status of Linguistic Constraints in Neural Language Models** (PI: Erhard Hinrichs)
+- **Evaluating, Explaining, and Enabling Ethical Multi-Agent Systems of Large Language Models (E4-MALM)** (PIs: Anne Lauscher, Jae Hee Lee)
+- **Interpretable Surprisal: Language Models Between Linguistic Structure and Neural Evidence** (PIs: Alessandro Lopopolo, Milena Rabovsky)
+- **Understanding the Cross-Linguistic Brain Basis of Sentence Processing through Interpretable Language Technology** (PI: Lars Meyer)
+- **Propositional Attitudes in Large Language Models (PALLM)** (PI: Robert Pasternak)
+- **Relating Probabilities of Words to Probabilities of Worlds** (PI: Sean Papay)
+- **Learning linguistic inferences and their alternatives** (PIs: Jacopo Romoli, Yulia Zinova)
+- **LLADIGA: Learning Language with Dialogue Games** (PIs: David Schlangen, Raffaella Bernardi)
+- **The evaluation of empathy-related linguistic performance in large language models: Comparing surprisal values for next-word predictions in human EEG and LLMs** (PI: Markus Werning)
+- **Gesture-Informed Language Models: Evaluating Multimodal Discourse Processing in LLMs and Humans** (PI: Frances Yung)
+
 ## Mercator Fellows
 
-The program is supported by four Mercator Fellows:
+The Priority Area is supported by four Mercator Fellows:
 - **Katrin Erk**: Katrin Erk is a professor in the Linguistics and Computer Science departments at the University of Massachusetts Amhers and an internationally renowned expert on computational semantics. Her work dives deep into the theoretical foundations of distributional (embedding-based) representations of meaning and compositionality
 - **Raquel Fernández**: Raquel Fernandez is Professor of Computational Linguistics & Dialogue Systems at the University of Amsterdam. She is well-known for her widely influential work on computational and data-driven approaches to dialogue modeling. Her current research investigates modern language technology from a theoretically-informed position that combines factors of individual cognition and grounding in situated interaction
 - **Roger Levy**: Roger Levy is Professor at the MIT Department of Brain and Cognitive Sciences. His seminal work in computational psycholinguistics combines (language) modeling of large data sets with experimental linguistics, increasing our understanding oflanguage processing in both machines and humans.
