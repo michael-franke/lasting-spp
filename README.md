@@ -9,7 +9,6 @@ The Priority Area "LaSTing" involves the following projects:
 - **The pragmatic test: how humans and LLMs decode presupposed meaning** (PIs: Nadine Bade, Miriam Butt)
 - **KIND-LM: Cognitively-inspired interaction dynamics for sample-efficient language modeling** (PIs: Lisa Beinborn, Nivedita Mani)
 - **A Resource Efficient Cross-linguistic Approach to Figurative Meaning Assessment in LLMs** (PI: Maria Berger)
-- **Coordination Funds** (PI: Michael Franke)
 - **Unreal engines — Understanding language models through resource-optimal analysis: Implicit Bayesian pragmatic reasoning & emergent causal world models** (PI: Michael Franke)
 - **Attention in Large Language Models: Linguistic Grounding, Cognitive Modeling, and Social Application** (PIs: Nicole Gotzner, Sebastian Musslick)
 - **A multidimensional adaptive test for the psychometric assessment of LLM capabilities** (PI: Fritz Günther)
