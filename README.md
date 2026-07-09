@@ -2,34 +2,6 @@
 
 The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences. A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
 
-## Contact
-
-<p>
-    <strong>Spokesperson</strong><br>
-    Prof. Michael Franke<br>
-    <a href="mailto:michael.franke@uni-tuebingen.de">
-      michael.franke@uni-tuebingen.de
-    </a>
-  </p>
-
-  <p>
-    <strong>Scientific Coordination</strong><br>
-    Miriam Schiele<br>
-    <a href="mailto:miriam.schiele@uni-tuebingen.de">
-      miriam.schiele@uni-tuebingen.de
-    </a>
-  </p>
-
-  <p>
-    <strong>Administrative Coordination</strong><br>
-    Fidan Can<br>
-    <a href="mailto:fidan.can@semsprach.uni-tuebingen.de">
-      fidan.can@semsprach.uni-tuebingen.de
-    </a>
-  </p>
-
-<!-- yet to add Funktionsadresse -->
-
 ## Projects
 
 The Priority Area LaSTing involves the following projects:
@@ -98,7 +70,7 @@ and their proper role in the scientific research into human language (e.g.
 how could LMs be used as explanatory tools for understanding human language?).
 In response to these issues, the Priority Programme especially welcomes foundational work addressing general properties or potential limits of particular classes of language models, e.g.
 by using mathematical arguments, simulations studies, tight conceptual argumentation or a mixture of such methods.
-
+<!--
 Examples of more concrete research questions that fit into these three core issues are:
 
 - **Behavioural Assessment**: What are adequate, robust methods of experimentally assessing the (abstracted, linguistic) capability of an LM based on its input-output behaviour? What is a valid comparison of machine predictions with human behaviour?
@@ -115,5 +87,33 @@ Examples of work that is outside the scope of this Priority Area are efforts gea
 Also, projects that merely seek new areas of application with established tools, as long as there is little or no reflection on methods or concepts, or any other bearing on the knowledge-oriented cognitive language sciences.
 
 In order to achieve its goals, LaSTing requires broad and deep interdisciplinary collaboration.
-The Priority Programme therefore implements an extensive suite of individual measures to support diversity, networking and dissemination, and to ensure the success of early career researchers and scholars with backgrounds underrepresented in academic research.
+The Priority Programme therefore implements an extensive suite of individual measures to support diversity, networking and dissemination, and to ensure the success of early career researchers and scholars with backgrounds underrepresented in academic research.-->
+
+## Contact
+
+<p>
+    <strong>Spokesperson</strong><br>
+    Prof. Michael Franke<br>
+    <a href="mailto:michael.franke@uni-tuebingen.de">
+      michael.franke@uni-tuebingen.de
+    </a>
+  </p>
+
+  <p>
+    <strong>Scientific Coordination</strong><br>
+    Miriam Schiele<br>
+    <a href="mailto:miriam.schiele@uni-tuebingen.de">
+      miriam.schiele@uni-tuebingen.de
+    </a>
+  </p>
+
+  <p>
+    <strong>Administrative Coordination</strong><br>
+    Fidan Can<br>
+    <a href="mailto:fidan.can@semsprach.uni-tuebingen.de">
+      fidan.can@semsprach.uni-tuebingen.de
+    </a>
+  </p>
+
+<!-- yet to add Funktionsadresse -->
 
