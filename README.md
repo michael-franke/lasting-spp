@@ -2,6 +2,11 @@
 
 The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences. A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
 
+## Contact
+- **Spokesperson** Prof. Michael Franke
+- **scientific Coordination** Miriam Schiele
+- **Administrative Coordination** Fidan Can
+  
 ## Projects
 
 The Priority Area LaSTing involves the following projects:
