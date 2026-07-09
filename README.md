@@ -4,14 +4,13 @@ The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applic
 
 ## Contact
 - **Spokesperson** Prof. Michael Franke <details><summary>more</summary>
-michael.franke@uni-tuebingen.de
-</details>
-- **scientific Coordination** Miriam Schiele <details><summary>more</summary>
-miriam.schiele@uni-tuebingen.de
-</details>
+michael.franke@uni-tuebingen.de</details>
+
+- **Scientific Coordination** Miriam Schiele <details><summary>more</summary>
+miriam.schiele@uni-tuebingen.de</details>
+
 - **Administrative Coordination** Fidan Can <details><summary>more</summary>
-fidan.can@semsprach.uni-tuebingen.de
-</details>
+fidan.can@semsprach.uni-tuebingen.de</details>
 
 <! -- yet to add Funktionsadresse -->
 
