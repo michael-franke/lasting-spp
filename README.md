@@ -9,16 +9,21 @@ As a result, recent years have seen a newly emerging field of interdisciplinary 
 
 **Robust assessment**
 
-<details>
-<summary>Given the very rapid pace of recent developments, careful reflection on standards for the methodology of testing and assessment is lagging behind. (more)</summary>
-<p>
+<div>
+  <p>
+    Given the very rapid pace of recent developments, careful reflection on standards...
+    <span id="more1" style="display:none;">
+      What is required is a joint effort to converge on proper standards for robust assessment of language models...
+    </span>
+  </p>
 
-What is required is a joint effort to converge on proper standards for robust assessment of language models.
-
-Methodology is robust, in the sense intended here, if its results are generalisable, transferable, and reproducible.
-
-</p>
-</details>
+  <a href="#" onclick="
+    document.getElementById('more1').style.display='inline';
+    this.style.display='none';
+    return false;">
+    more
+  </a>
+</div>
 
 
 **Safe applicability**
