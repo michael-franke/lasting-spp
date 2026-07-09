@@ -8,23 +8,16 @@ While modern language technology increasingly permeates many areas of applicatio
 As a result, recent years have seen a newly emerging field of interdisciplinary and methodologically diverse work at the interface between the cognitive language sciences and language technology.
 
 **Robust assessment**
+<details>
+<summary>
+careful reflection on standards for the methodology of testing and assessment is lagging behind. (more)</summary>
 
-<div>
-  <p>
-    Given the very rapid pace of recent developments, careful reflection on standards...
-    <span id="more1" style="display:none;">
-      What is required is a joint effort to converge on proper standards for robust assessment of language models...
-    </span>
-  </p>
+What is required is a joint effort to converge on proper standards for robust assessment of language models.
 
-  <a href="#" onclick="
-    document.getElementById('more1').style.display='inline';
-    this.style.display='none';
-    return false;">
-    more
-  </a>
-</div>
+Methodology is robust, in the sense intended here, if its results are generalisable (carrying over with sufficient certainty to other models and data sets), transferable (insightful beyond the purposes of understanding a single type of computational model), and reproducible (with the same or different models and data sets).
 
+Robust methodology also aspires to be as future-proof as possible, i.e. likely relevant to the next generation of models or the next set of antagonistic examples.
+</details>
 
 **Safe applicability**
 
