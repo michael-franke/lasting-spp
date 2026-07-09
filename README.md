@@ -11,21 +11,20 @@ As a result, recent years have seen a newly emerging field of interdisciplinary 
 
 <details>
 <summary>Given the very rapid pace of recent developments, careful reflection on standards for the methodology of testing and assessment is lagging behind. (more)</summary>
+<p>
 
 What is required is a joint effort to converge on proper standards for robust assessment of language models.
 
-Methodology is robust, in the sense intended here, if its results are generalisable (carrying over with sufficient certainty to other models and data sets), transferable (insightful beyond the purposes of understanding a single type of computational model), and reproducible (with the same or different models and data sets).
+Methodology is robust, in the sense intended here, if its results are generalisable, transferable, and reproducible.
 
-Robust methodology also aspires to be as future-proof as possible, i.e. likely relevant to the next generation of models or the next set of antagonistic examples.
-
+</p>
 </details>
 
 
 **Safe applicability**
 
 <details>
-<summary>
-As language technology gets applied more and more widely, concerns of safe applicability become ever more important. (more)</summary>
+<summary>As language technology gets applied more and more widely, concerns of safe applicability become ever more important. (more)</summary>
 
 Safe applicability subsumes critical aspects such as being conceptually sound (e.g. anchored in “first principles” or established empirical knowledge), validated (e.g. by mathematical proof or other rigorous derivation) or at least stress-tested across a near-exhaustive traversal of possible conditions of use, ethical (e.g. bias- and harm-free, or privacy-respecting), and also economical (i.e. minimising data requirements and energy consumption).
 
@@ -38,8 +37,7 @@ The Priority Area LaSTing therefore also particularly invites contributions on t
 **Foundational questions**
 
 <details>
-<summary>
-Progress on understanding the behaviour of language models and their safe applicability is inexorably tied to a better understanding of their core mechanisms and the impact of their training data or their training objectives. (more)</summary>
+<summary>Progress on understanding the behaviour of language models and their safe applicability is inexorably tied to a better understanding of their core mechanisms and the impact of their training data or their training objectives. (more)</summary>
 
 But just as relevant are deep foundational questions concerning the nature of language models (e.g. what are LMs models of?) and their proper role in the scientific research into human language (e.g. how could LMs be used as explanatory tools for understanding human language?).
 
