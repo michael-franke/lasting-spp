@@ -9,7 +9,7 @@ As a result, recent years have seen a newly emerging field of interdisciplinary 
 
 
 <details>
-<summary>**Robust assessment** (more)</summary>
+<summary><strong>Robust assessment</strong> </summary>
 Given the very rapid pace of recent developments, careful reflection on standards for the methodology of testing and assessment is lagging behind.
 What is required is a joint effort to converge on proper standards for robust assessment of language models.
 
@@ -21,7 +21,7 @@ Robust methodology also aspires to be as future-proof as possible, i.e. likely r
 
 
 <details>
-<summary>**Safe applicability**(more)</summary>
+<summary><strong>Safe applicability</strong></summary>
 
 As language technology gets applied more and more widely, concerns of safe applicability become ever more important. Safe applicability subsumes critical aspects such as being conceptually sound (e.g. anchored in “first principles” or established empirical knowledge), validated (e.g. by mathematical proof or other rigorous derivation) or at least stress-tested across a near-exhaustive traversal of possible conditions of use, ethical (e.g. bias- and harm-free, or privacy-respecting), and also economical (i.e. minimising data requirements and energy consumption).
 
@@ -34,7 +34,7 @@ The Priority Area LaSTing therefore also particularly invites contributions on t
 
 
 <details>
-<summary>**Foundational questions**(more)</summary>
+<summary><strong>Foundational questions</strong></summary>
 
 Progress on understanding the behaviour of language models and their safe applicability is inexorably tied to a better understanding of their core mechanisms and the impact of their training data or their training objectives. But just as relevant are deep foundational questions concerning the nature of language models (e.g. what are LMs models of?) and their proper role in the scientific research into human language (e.g. how could LMs be used as explanatory tools for understanding human language?).
 
