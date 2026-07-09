@@ -7,7 +7,7 @@ The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applic
 While modern language technology increasingly permeates many areas of applications, much of its input-output behaviour and its inner mechanics remains unknown.
 As a result, recent years have seen a newly emerging field of interdisciplinary and methodologically diverse work at the interface between the cognitive language sciences and language technology.
 
-<h3>Robust assessment</h3>
+<h4>Robust assessment</h4>
 
 <details>
 <summary>Read more</summary>
@@ -20,7 +20,7 @@ Robust methodology also aspires to be as future-proof as possible, i.e. likely r
 </details>
 
 
-<h3>Safe applicability</h3>
+<h4>Safe applicability</h4>
 
 <details>
 <summary>Read more</summary>
@@ -33,7 +33,7 @@ The Priority Area LaSTing therefore also particularly invites contributions on t
 </details>
 
 
-<h3>Foundational questions</h3>
+<h4>Foundational questions</h4>
 
 <details>
 <summary>Read more</summary>
