@@ -1,45 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  display: flex;
-}
+## General information
 
-/* Sidebar */
-.sidebar {
-  width: 280px;
-  background: #f5f5f5;
-  padding: 20px;
-  height: 100vh;
-  position: fixed;
-  overflow-y: auto;
-  border-right: 1px solid #ddd;
-}
+The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences. A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
 
-.sidebar h2 {
-  font-size: 1.2em;
-}
+## Contact
 
-.sidebar p {
-  font-size: 0.9em;
-}
-
-/* Main content */
-.main {
-  margin-left: 320px;
-  padding: 30px;
-  max-width: 900px;
-}
-</style>
-</head>
-
-<body>
-
-<div class="sidebar">
-  <h2>Contact</h2>
 <p>
     <strong>Spokesperson</strong><br>
     Prof. Michael Franke<br>
@@ -65,17 +29,6 @@ body {
   </p>
 
 <!-- yet to add Funktionsadresse -->
-
-</div>
-
-
-<div class="main">
-
-<h2>General information</h2>
-
-## General information
-
-The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of Language Science & Technology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences. A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
 
 ## Projects
 
