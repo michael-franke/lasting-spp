@@ -12,7 +12,7 @@ miriam.schiele@uni-tuebingen.de</details>
 - **Administrative Coordination** Fidan Can <details><summary>more</summary>
 fidan.can@semsprach.uni-tuebingen.de</details>
 
-<! -- yet to add Funktionsadresse -->
+<!-- yet to add Funktionsadresse -->
 
 ## Projects
 
