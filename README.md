@@ -7,6 +7,20 @@ The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applic
 While modern language technology increasingly permeates many areas of applications, much of its input-output behaviour and its inner mechanics remains unknown.
 As a result, recent years have seen a newly emerging field of interdisciplinary and methodologically diverse work at the interface between the cognitive language sciences and language technology.
 
+<style>
+summary {
+  cursor: pointer;
+}
+
+summary .read-more {
+  color: #0366d6;
+}
+
+summary:hover .read-more {
+  text-decoration: underline;
+}
+</style>
+
 
 <details>
 <summary><strong>Robust assessment</strong> <span style="color:#0366d6;">(read more)</span></summary>
