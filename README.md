@@ -97,6 +97,18 @@ The Priority Area LaSTing is supported by four Mercator Fellows:
 - **Christopher Potts**: Christopher Potts is Professor and Chair at the Department of Linguistics at Stanford University, also associated there with the Department of Computer Science. While his early work made ground-breaking contributions to formal semantics and pragmatics, his more recent work is
 bridging linguistics and language technology with exemplary work on theoretically-informed NLP applications and (causal) interpretability of language models
 
+## Steering committee
+
+The steering committee consists of the following members:
+- **Michael Franke** Universiy of Tübingen
+- **Miriam Schiele** University of Tübingen
+- **Fidan Can** University of Tübingen
+- **Katrin Erk** University of Massachusetts Amherst
+- **David Schlangen** University of Potsdam
+- **Nicole Gotzner** University of Osnabrück
+- **Sagar Kumar** Heinrich Heine University Düsseldorf
+- **Kascha Kruschwitz** University of Konstanz
+- **Mikołaj Golecki** University of Bamberg
 
 ## Contact
 
