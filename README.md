@@ -137,4 +137,7 @@ The steering committee consists of the following members:
   </p>
 
 <!-- yet to add Funktionsadresse -->
+  </p>
+ The coordination of LaSTing is based at the [niversity of Tübingen]([https://uni-tuebingen.de/])
+
 
