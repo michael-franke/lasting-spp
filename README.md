@@ -1,3 +1,6 @@
+#News
+The kick-off meeting for the new SPP LaSTing will take place on 8-9 Oct 2026 in Tübingen. The program will be shared soon.
+
 ## General information
 
 The Priority Area (German: Schwerpunktprogramm) "Robust Assessment & Safe Applicability of Language Modeling: Foundations for a New Field of **La**nguage **S**cience & **T**echnology" (acronym: LaSTing; SPP 2556) aims to advance our understanding of language technology, in particular language modeling, for safer use, especially in applications in the (computational / cognitive) language sciences. A detailed project description is [here](https://www.lasting-spp.org/assets/proposal-digest.pdf).
