@@ -1,4 +1,4 @@
-##News
+## News
 The kick-off meeting for the new SPP LaSTing will take place on 8-9 Oct 2026 in Tübingen. The program will be shared soon.
 
 ## General information
