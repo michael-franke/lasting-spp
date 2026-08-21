@@ -116,6 +116,13 @@ The steering committee consists of the following members:
 ## Contact
 
 <p>
+    <strong>Please direct your remails to</strong><br>
+   <br><a href="mailto:spp-lastinge@uni-tuebingen.de">
+      spp-lasting@uni-tuebingen.de
+    </a>
+  </p>
+  
+<p>
     <strong>Spokesperson</strong><br>
     Prof. Michael Franke<br>
     <a href="mailto:michael.franke@uni-tuebingen.de">
