@@ -115,12 +115,8 @@ The steering committee consists of the following members:
 
 ## Contact
 
-<p>
-    <strong>Please direct your remails to</strong><br>
-   <br><a href="mailto:spp-lastinge@uni-tuebingen.de">
+Please direct your remails to<a href="mailto:spp-lastinge@uni-tuebingen.de">
       spp-lasting@uni-tuebingen.de
-    </a>
-  </p>
   
 <p>
     <strong>Spokesperson</strong><br>
