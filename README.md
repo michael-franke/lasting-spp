@@ -1,5 +1,5 @@
 ## News
-The kick-off meeting for LaSTing will take place on **8-9 Oct 2026** in Tübingen. More information can be found [here](https://www.lasting-spp.org/assets/handbook.pdf).
+The kick-off meeting for LaSTing will take place on **8-9 October 2026** in Tübingen. More information can be found [here](https://www.lasting-spp.org/assets/handbook.pdf).
 
 ## General information
 
