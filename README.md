@@ -119,7 +119,7 @@ Please direct your emails to<a href="mailto:spp-lastinge@uni-tuebingen.de">
       spp-lasting@uni-tuebingen.de
   
 <p>
-    <strong>Spokesperson</strong><br>
+    <strong>Project Director</strong><br>
     Prof. Michael Franke<br>
     <a href="mailto:michael.franke@uni-tuebingen.de">
       michael.franke@uni-tuebingen.de
@@ -127,7 +127,7 @@ Please direct your emails to<a href="mailto:spp-lastinge@uni-tuebingen.de">
   </p>
 
   <p>
-    <strong>Scientific Coordination</strong><br>
+    <strong>Scientific Coordinator</strong><br>
     Miriam Schiele<br>
     <a href="mailto:miriam.schiele@uni-tuebingen.de">
       miriam.schiele@uni-tuebingen.de
@@ -135,7 +135,7 @@ Please direct your emails to<a href="mailto:spp-lastinge@uni-tuebingen.de">
   </p>
 
   <p>
-    <strong>Administrative Coordination</strong><br>
+    <strong>Administrative Coordinator</strong><br>
     Fidan Can<br>
     <a href="mailto:fidan.can@semsprach.uni-tuebingen.de">
       fidan.can@semsprach.uni-tuebingen.de
